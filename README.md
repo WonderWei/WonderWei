@@ -2,7 +2,7 @@
 - 👀 I’m interested in linux, Memory, storage ...
 - 🌱 I’m currently learning linux kernel and fio
 - 💞️ I’m looking to collaborate on GEM5
-- 📫 How to reach me ...()
+- 📫 Send message to me 893171830@qq.com
 
 <!---
 WonderWei/WonderWei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
